@@ -1,262 +1,153 @@
-# 🤖 CodeOrbit AI Chatbot (Version 3)
+# 👋 Hi, I'm Raveena Deshmukh
 
-## 📌 Project Overview
+Welcome to my GitHub profile!
 
-CodeOrbit AI Chatbot is a Python-based Rule-Based Chatbot developed as part of the **CodeOrbit AI Internship Program**. The chatbot responds to user queries using predefined rules and keyword matching without using any AI APIs or machine learning models.
-
-It provides an interactive menu, conversation history, chat statistics, report export, motivational quotes, jokes, and information about AI, Python, SQL, Power BI, and more.
+I am an aspiring **Artificial Intelligence** and **Data Analytics** enthusiast with a passion for building practical projects using Python. I enjoy learning new technologies and applying them to solve real-world problems. This GitHub profile showcases my AI internship projects and my learning journey.
 
 ---
 
-# 🎯 Objective
+# 🚀 About Me
 
-The objective of this project is to demonstrate Python programming fundamentals, including:
+- 🎓 Artificial Intelligence Intern
+- 💻 Python Programmer
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Power BI & Data Analytics Learner
+- 🌱 Continuously improving my AI and programming skills
 
-- Conditional Statements
-- Loops
-- Functions
+---
+
+# 📂 Featured Projects
+
+## 🤖 Rule-Based Chatbot
+
+A menu-driven chatbot built with Python that responds to predefined questions using rule-based logic. This project helped me understand the fundamentals of chatbot development and Python programming.
+
+### Features
+- Predefined questions and answers
+- Conversation history
+- Clear history option
+- User-friendly menu
+- Easy to customize
+
+### Technologies
+- Python
+- Dictionaries
 - File Handling
-- String Processing
-- Modular Programming
-- Rule-Based Decision Making
 
 ---
 
-# ✨ Features
+## 🖼️ Vehicle Image Classification Using MobileNetV2
 
-- 🤖 Rule-Based Chatbot
-- 🎨 Colorful Console Interface
-- 💬 50+ Predefined Questions
-- 👋 Personalized Welcome Message
-- 📝 Conversation History
-- 📄 Export Chat Report
-- 📊 Chat Statistics
-- 🔍 Topic Search
-- 📚 Help Menu
-- 📅 Current Date
-- ⏰ Current Time
-- 😊 Motivational Quotes
-- 😂 Random Jokes
-- 🗑️ Clear History
-- ℹ️ About Section
-- 🚪 Exit Option
+A computer vision project that uses the pretrained **MobileNetV2** model to classify vehicle images. The model predicts the top three matching classes along with confidence scores.
 
----
+### Features
+- Image classification
+- Multiple image prediction
+- Top 3 predictions
+- Confidence scores
+- Image visualization
 
-# 🛠️ Technologies Used
-
-- Python 3
-- Colorama
-- Datetime
-- Random
-- Time
-- OS Module
+### Technologies
+- Python
+- TensorFlow (tf.keras)
+- NumPy
+- Matplotlib
+- Google Colab
 
 ---
 
-# 📂 Project Structure
+## 😊 Sentiment Analysis Using Hugging Face Transformers
 
-```
-CodeOrbit-AI-Chatbot/
-│
-├── main.py
-├── README.md
-├── history.txt
-├── report.txt
-├── requirements.txt
-│
-├── assets/
-│   └── logo.txt
-│
-└── screenshots/
-    ├── menu.png
-    ├── chat.png
-    ├── history.png
-    ├── statistics.png
-    └── about.png
-```
+A Natural Language Processing (NLP) project that predicts whether a piece of text expresses a **Positive**, **Negative**, or **Neutral** sentiment using a pretrained transformer model.
+
+### Features
+- Sentiment prediction
+- Confidence scores
+- CSV export
+- Bar chart visualization
+- Pretrained Hugging Face model
+
+### Technologies
+- Python
+- Hugging Face Transformers
+- Hugging Face Datasets
+- Pandas
+- Matplotlib
+- Google Colab
 
 ---
 
-# 📥 Installation
+# 🛠️ Technical Skills
 
-Clone the repository
+### Programming
+- Python
+- SQL
 
-```bash
-git clone https://github.com/YourUsername/CodeOrbit-AI-Chatbot.git
-```
-
-Move to project folder
-
-```bash
-cd CodeOrbit-AI-Chatbot
-```
-
-Install dependency
-
-```bash
-pip install colorama
-```
-
-Run the chatbot
-
-```bash
-python main.py
-```
-
----
-
-# 📋 Main Menu
-
-```
-=========== MAIN MENU ===========
-
-1. Start Chat
-2. View History
-3. Export Report
-4. Chat Statistics
-5. Help
-6. Search Topics
-7. Clear History
-8. About
-9. Exit
-```
-
----
-
-# 💬 Sample Conversation
-
-```
-You : Hello
-
-Bot : Hello! Welcome to CodeOrbit AI Chatbot.
-
-You : What is AI?
-
-Bot : Artificial Intelligence enables machines to perform tasks requiring human intelligence.
-
-You : Tell me a joke
-
-Bot : Why do programmers love Python?
-Because it's easy to understand!
-
-You : Motivate me
-
-Bot : Every expert was once a beginner.
-
-You : Exit
-
-Bot : Returning to Main Menu...
-```
-
----
-
-# 📚 Topics Covered
-
-- Artificial Intelligence
+### Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Natural Language Processing
-- Python
+- Natural Language Processing (NLP)
+- Computer Vision
+- Transfer Learning
+
+### Libraries & Frameworks
+- TensorFlow
+- Hugging Face Transformers
 - NumPy
 - Pandas
-- SQL
+- Matplotlib
+
+### Data Analytics
 - Power BI
-- Excel
+- Microsoft Excel
+
+### Tools
+- Google Colab
 - GitHub
-- LinkedIn
-- Resume
-- Internship
-- Projects
-- Motivation
-- Quotes
-- Jokes
-- Date
-- Time
+- VS Code
+- Pydroid 3
 
 ---
 
-# 📊 Chat Statistics
+# 📖 Currently Learning
 
-The chatbot records:
-
-- Total Questions Asked
-- Chat Sessions
-- History File Size
-
----
-
-# 📄 Export Report
-
-The chatbot exports all conversations into:
-
-```
-report.txt
-```
-
-This report can be used for review and documentation.
+- Generative AI
+- Agentic AI
+- Large Language Models (LLMs)
+- Advanced Computer Vision
+- Advanced NLP
+- Deep Learning
 
 ---
 
-# 📸 Screenshots
+# 🎯 Future Projects
 
-Add screenshots of:
-
-- Home Screen
-- Main Menu
-- Chat Window
-- History
-- Statistics
-- About Page
-
-inside the **screenshots** folder.
+- AI Root Cause Analysis System
+- Medical Image Classification
+- AI Resume Screening System
+- AI Voice Assistant
+- Document Question Answering System
+- Power BI AI Dashboard
 
 ---
 
-# 📖 Learning Outcomes
+# 🎓 Learning Journey
 
-This project helped in learning:
+Through these projects, I have gained practical experience in:
 
-- Python Programming
-- Functions
-- Loops
-- Conditional Statements
-- Lists
-- File Handling
-- String Manipulation
-- Console Applications
-- Rule-Based Chatbot Development
-- Software Project Organization
+- Python programming
+- Artificial Intelligence fundamentals
+- Machine Learning concepts
+- Computer Vision
+- Natural Language Processing
+- Git and GitHub
+- Data Visualization
+- Problem Solving
 
 ---
 
-# 🚀 Future Improvements
+# 📫 Connect With Me
 
-- Voice Assistant
-- GUI using Kivy
-- Dark Mode
-- Login System
-- SQLite Database
-- Text-to-Speech
-- Speech Recognition
-- Generative AI Integration
+Feel free to explore my repositories, share your feedback, or connect with me. I'm always excited to learn, collaborate, and build new AI projects.
 
----
-
-# 👩‍💻 Author
-
-**Raveena Deshmukh**
-
-Artificial Intelligence Intern
-
-CodeOrbit Tech
-
----
-
-# 📄 License
-
-This project is developed for educational purposes as part of the **CodeOrbit Tech Artificial Intelligence Internship Program**.
-
----
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub.
+⭐ Thank you for visiting my GitHub profile!
