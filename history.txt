@@ -1,0 +1,30 @@
+You : how are you
+Bot : I am doing great. Thanks for asking.
+
+You : what is your name
+Bot : My name is CodeOrbit AI Chatbot.
+
+You : what is python
+Bot : Python is one of the best programming languages for AI and Data Science.
+
+You : what is ai
+Bot : Artificial Intelligence enables machines to perform tasks that normally require human intelligence.
+
+You : tell me a joke
+Bot : Why do programmers love Python? Because it's easy to understand!
+
+You : tell me a quote
+Bot : Every expert was once a beginner.
+
+You : today date
+Bot : 2026-07-14
+
+You : current time
+Bot : 03:19 AM
+
+You : thank you
+Bot : You're welcome.
+
+You : bye
+Bot : Goodbye! See you again.
+
