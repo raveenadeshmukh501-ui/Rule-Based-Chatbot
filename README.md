@@ -146,6 +146,12 @@ Through these projects, I have gained practical experience in:
 
 ---
 
+## 🎯 CodeOrbit AI Internship
+
+This project was created as part of the **CodeOrbit AI Internship Program** to strengthen my Python programming and problem-solving skills. It demonstrates the implementation of a simple rule-based chatbot capable of answering predefined questions, maintaining conversation history, and providing a user-friendly interactive experience.
+
+---
+
 # 📫 Connect With Me
 
 Feel free to explore my repositories, share your feedback, or connect with me. I'm always excited to learn, collaborate, and build new AI projects.
