@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Raveena Deshmukh
 
 Welcome to my GitHub profile!
-
-I am an aspiring **Artificial Intelligence** and **Data Analytics** enthusiast with a passion for building practical projects using Python. I enjoy learning new technologies and applying them to solve real-world problems. This GitHub profile showcases my AI internship projects and my learning journey.
+I am an aspiring Artificial Intelligence and Data Analytics enthusiast with a passion for building practical AI and Python projects. I enjoy learning new technologies and applying them to solve real-world problems.
+This GitHub profile showcases the projects I developed during my CodeOrbit AI Internship, along with my continuous learning journey in Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing (NLP), and Data Analytics.
 
 ---
 
 # 🚀 About Me
-
-- 🎓 Artificial Intelligence Intern
-- 💻 Python Programmer
-- 🤖 AI & Machine Learning Enthusiast
-- 📊 Power BI & Data Analytics Learner
-- 🌱 Continuously improving my AI and programming skills
+🎓 AI Intern at CodeOrbit Tech
+💻 Python Programmer
+🤖 AI & Machine Learning Enthusiast
+📊 Power BI & Data Analytics Learner
+🌱 Continuously improving my AI and programming skills
 
 ---
 
@@ -146,9 +145,8 @@ Through these projects, I have gained practical experience in:
 
 ---
 
-## 🎯 CodeOrbit AI Internship
-
-This project was created as part of the **CodeOrbit AI Internship Program** to strengthen my Python programming and problem-solving skills. It demonstrates the implementation of a simple rule-based chatbot capable of answering predefined questions, maintaining conversation history, and providing a user-friendly interactive experience.
+# 🎓 CodeOrbit AI Internship
+The projects in this GitHub profile were developed as part of the CodeOrbit AI Internship Program. Through this internship, I gained hands-on experience in Python programming, Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, GitHub, and Data Analytics by building real-world projects.
 
 ---
 
